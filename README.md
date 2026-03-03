@@ -64,7 +64,7 @@ Dataset: Real vs AI Generated images dataset (subset for faster training).
 
 ---
 
-## Sample Output
+## Sample Output🟢
 
 Example:
 51.71% Likely Real
@@ -78,5 +78,5 @@ Example:
 
 ## Author
 
-Your Name Binoy Chakraborty
+ Binoy Chakraborty
 
