@@ -73,6 +73,8 @@ Example:
 99.28% Likely Fake
 <img width="560" height="662" alt="Screenshot 2026-03-03 185514" src="https://github.com/user-attachments/assets/8ef2aa56-8100-42a8-b53e-52b3b00f2c93" />
 ---
+<img width="537" height="691" alt="Screenshot 2026-03-03 191041" src="https://github.com/user-attachments/assets/09d3acd2-4b61-4457-95c3-1ff05854687c" />
+<img width="542" height="756" alt="Screenshot 2026-03-03 185420" src="https://github.com/user-attachments/assets/4a9b3e66-3dd8-4c5c-86f1-3783e6008f80" />
 
 
 
