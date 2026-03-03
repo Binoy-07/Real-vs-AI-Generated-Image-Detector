@@ -18,6 +18,11 @@ app.post("/predict", upload.single("image"), (req, res) => {
     python.stderr.on("data", (data) => {
         console.error(data.toString());
     });
+    
+});
+
+    app.get("/", (req, res) => {
+    res.send("Backend is live");
 });
 
 app.listen(5000, () => console.log("Server running on port 5000"));
