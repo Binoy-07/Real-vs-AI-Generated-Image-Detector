@@ -68,8 +68,9 @@ Dataset: Real vs AI Generated images dataset (subset for faster training).
 
 Example:
 99.28% Likely Fake
-
+<img width="760" height="862" alt="Screenshot 2026-03-03 185514" src="https://github.com/user-attachments/assets/8ef2aa56-8100-42a8-b53e-52b3b00f2c93" />
 ---
+
 
 ## Author
 
