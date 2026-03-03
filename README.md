@@ -73,4 +73,5 @@ Example:
 
 ## Author
 
-Your Name
+Your Name Binoy Chakraborty
+
